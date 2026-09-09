@@ -1,0 +1,11 @@
+path: C:/Users/DISHA VILAS DHOK/OneDrive/Desktop/fire and smoke detection/Fire_and_Smoke_Detection/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+
+names:
+  0: fire
+  1: smoke
